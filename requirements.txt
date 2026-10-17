@@ -1,0 +1,9 @@
+# Versions installed in the source environment; release training has not been executed.
+# Install the appropriate PyTorch CUDA build for your machine if needed.
+torch==2.5.1
+monai==1.5.1
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.7.2
+nibabel==5.3.3
+joblib==1.4.2
